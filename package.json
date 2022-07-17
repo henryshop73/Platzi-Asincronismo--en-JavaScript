@@ -10,5 +10,8 @@
     "javaScript"
   ],
   "author": "Henry Moran <henrymoranfreelance@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
