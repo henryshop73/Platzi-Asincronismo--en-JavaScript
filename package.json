@@ -12,6 +12,8 @@
   "author": "Henry Moran <henrymoranfreelance@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.9",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
