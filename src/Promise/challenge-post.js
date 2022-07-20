@@ -15,8 +15,8 @@ function postData(urlApi, data) {
 }
 
 const data = {
-  "title": "New Product Course",
-  "price": 9999,
+  "title": "227",
+  "price": 227,
   "description": "A description",
   "categoryId": 1,
   "images": ["https://placeimg.com/640/480/any"]
