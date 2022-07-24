@@ -6,7 +6,7 @@ function calc(num1, num2, callback) { // No necesariamente se debe llamar callba
     return callback(num1, num2);
 }
 
-console.log(calc(2, 2, sum)); // sum debe estar si () y sin argumentos
+console.log(calc(2, 2, sum)); // sum debe estar sin () y sin argumentos
 
 // setTimeout
 
